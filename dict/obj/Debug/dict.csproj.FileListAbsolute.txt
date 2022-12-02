@@ -1,0 +1,8 @@
+C:\Users\PSCAD\Desktop\Stack01\dict\bin\Debug\dict.exe.config
+C:\Users\PSCAD\Desktop\Stack01\dict\bin\Debug\dict.exe
+C:\Users\PSCAD\Desktop\Stack01\dict\bin\Debug\dict.pdb
+C:\Users\PSCAD\Desktop\Stack01\dict\obj\Debug\dict.csproj.AssemblyReference.cache
+C:\Users\PSCAD\Desktop\Stack01\dict\obj\Debug\dict.csproj.SuggestedBindingRedirects.cache
+C:\Users\PSCAD\Desktop\Stack01\dict\obj\Debug\dict.csproj.CoreCompileInputs.cache
+C:\Users\PSCAD\Desktop\Stack01\dict\obj\Debug\dict.exe
+C:\Users\PSCAD\Desktop\Stack01\dict\obj\Debug\dict.pdb
